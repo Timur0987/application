@@ -1,0 +1,16 @@
+.search-panel {
+    margin: 1rem 0;
+    display: flex;
+  }
+  
+  .search-panel .search-input {
+    width: auto;
+    flex-grow: 1;
+    margin-right: 3px;
+    height: 25px;
+    border: 1.5px solid black;
+    border-radius: 3px;
+    font-size: 18px;
+    font-family: sans-serif;
+    background-color: #e2e9ff;
+  }

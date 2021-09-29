@@ -1,0 +1,16 @@
+.bottom-panel {
+    margin-top: 20px;
+    display: flex;
+  }
+  
+  .bottom-panel .new-post-label {
+    width: auto;
+    flex-grow: 1;
+    margin-right: 3px;
+    height: 25px;
+    border: 1.5px solid black;
+    border-radius: 3px;
+    font-size: 18px;
+    font-family: sans-serif;
+    background-color: #e2e9ff;  
+  }
